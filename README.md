@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Lucas Henrique. 🤖</h1>
 <h3 align="center">I'm a Programmer, who wants to know ever more, every time. 👾</h3>
 
-<p align="center">That's my GitHub, and i want to give you welcome, telling some more about me. <br>I'm from Sorocaba, an countryside city, next to São Paulo (Brazil). I love to travel, and meeting new places and cities. My principal ways to have fun is reading books, and play games! I wish you have a nice time here, on my user, and I Wish you come back again!</p>
+<p align="center">That's my GitHub, and I want to give you welcome, telling some more about me. <br>I'm from Sorocaba, an countryside city, next to São Paulo (Brazil). I love to travel, and meeting new places and cities. My principal ways to have fun is reading books, and play games! I wish you have a nice time here, on my user, and I Wish you come back again!</p>
 
 <br>
 
