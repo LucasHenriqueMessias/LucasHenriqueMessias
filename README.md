@@ -6,7 +6,7 @@
 <br>
 
 - 💻 Currently i'm working as Digital Developer at <a href="https://www.schaeffler.com.br/pt/" target="_blank">Schaeffler Brazil</a>
-- 🎓 Currently on 5th Semester of Analysis Systems And Development at Fatec José Crespo Gonzales (Fatec Sorocaba).
+- 🎓 Currently on 6th Semester of Analysis Systems And Development at Fatec José Crespo Gonzales (Fatec Sorocaba).
 - 📚 Learning Python and Java.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHenriqueMessias&show_icons=true&theme=dark)
