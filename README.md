@@ -5,7 +5,7 @@
 
 <br>
 
-- 💻 Currently i'm working as Digital Developer at <a href="https://www.schaeffler.com.br/pt/" target="_blank">Schaeffler Brazil</a>
+- 💻 Currently i'm working as Web & Backend Developer at <a href="https://www.schaeffler.com.br/pt/" target="_blank">Schaeffler Brazil</a>
 - 🎓 Currently on 6th Semester of Analysis Systems And Development at Fatec José Crespo Gonzales (Fatec Sorocaba).
 - 📚 Learning Python and Java.
 
