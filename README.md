@@ -1,13 +1,13 @@
-<h1 align="center">Hello! My name is Lucas Henrique. 🤖</h1>
-<h3 align="center">I'm a Programmer, who wants to know ever more, every time. 👾</h3>
+<h1 align="center">Hello! Hope you are doing well!</h1>
+<h3 align="center">I'm a Develoepr who wants to know more, every time. 👾</h3>
 
 <p align="center">That's my GitHub, and I want to give you welcome, telling some more about me. <br>I'm from Sorocaba, an countryside city, next to São Paulo (Brazil). I love to travel, and meeting new places and cities. My principal ways to have fun is reading books, and play games! I wish you have a nice time here, on my user, and I Wish you come back again!</p>
 
 <br>
-
-- 💻 Currently i'm working as Web & Backend Developer at <a href="https://www.schaeffler.com.br/pt/" target="_blank">Schaeffler Brazil</a>
-- 🎓 Currently on 6th Semester of Analysis Systems And Development at Fatec José Crespo Gonzales (Fatec Sorocaba).
-- 📚 Learning Python and Java.
+- 💻 Worked as Support Analyst at <a href="https://www.takasoftware.com.br" target="_blank">Taka Software</a>
+- 💻 Worked as Fullstack Developer at <a href="https://www.schaeffler.com.br/pt/" target="_blank">Schaeffler Brazil</a>
+- 💻 Currently Working as Fullstack Developer at <a href="https://www.fastassessoria.com.br" target="_blank">Fast Consultoria</a>
+- 🎓 Analysis Systems And Development at Fatec José Crespo Gonzales (Fatec Sorocaba).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHenriqueMessias&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueMessias&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
