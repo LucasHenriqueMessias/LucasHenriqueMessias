@@ -13,9 +13,9 @@
 
 ### 💼 Experience & Education
 
-- 💻 **Current:** Fullstack Developer at <a href="https://www.fastassessoria.com.br" target="_blank">Fast Consultoria</a>
-- 🏢 **Past:** Fullstack Developer at <a href="https://www.schaeffler.com.br/pt/" target="_blank">Schaeffler Brazil</a>
-- 📞 **Past:** Support Analyst at <a href="https://www.takasoftware.com.br" target="_blank">Taka Software</a>
+- 💻 **Current:** Full Stack Engineer at <a href="https://www.fastassessoria.com.br" target="_blank">Fast Consultoria</a>
+- 🏢 **Past:** Full Stack Engineer at <a href="https://www.schaeffler.com.br/pt/" target="_blank">Schaeffler Brazil</a>
+- 📞 **Past:** Support Engineer at <a href="https://www.takasoftware.com.br" target="_blank">Taka Software</a>
 - 🎓 **Education:** Systems Analysis and Development at Fatec José Crespo Gonzales (Fatec Sorocaba)
 
 ---
