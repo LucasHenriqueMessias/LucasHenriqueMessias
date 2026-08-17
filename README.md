@@ -40,9 +40,6 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-extended.vercel.app/api?username=LucasHenriqueMessias&show_icons=true&theme=dark" alt="Lucas's GitHub stats" width="48%" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasHenriqueMessias&theme=dark" alt="Top Langs" width="40%" />
   </a>
 </div>
