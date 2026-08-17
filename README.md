@@ -39,8 +39,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasHenriqueMessias&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Lucas's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHenriqueMessias&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" width="40%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-stats-extended.vercel.app/api?username=LucasHenriqueMessias&show_icons=true&theme=dark" alt="Lucas's GitHub stats" width="48%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasHenriqueMessias&theme=dark" alt="Top Langs" width="40%" />
+  </a>
 </div>
 
 ---
